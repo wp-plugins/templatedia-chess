@@ -41,7 +41,7 @@ This should result in the following file structure:
                 | abcdefgh.png
                 | ad_d.png
                 | [...]
-                | zl_l.png'
+                | zl_l.png`
 
 **See Also:** ["Installing Plugins" article on the WP Codex](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins)
 
@@ -51,7 +51,7 @@ Go to the admin area of your WordPress install and click on the "Plugins" menu. 
 
 ###Usage###
 
-See the documentation for the (Wikipedia original)[http://en.wikipedia.org/wiki/Template_talk:Chess_diagram#Syntax]. The usage syntax is identical.
+See the documentation for the [Wikipedia original](http://en.wikipedia.org/wiki/Template_talk:Chess_diagram#Syntax). The usage syntax is identical.
 
 == Frequently Asked Questions ==
 
