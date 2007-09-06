@@ -10,9 +10,9 @@ Creates a new template in Templatedia for displaying chess moves.
 
 == Description ==
 
-This plugin adds a new template to (Templatedia)[http://wordpress.org/extend/plugins/templatedia/] (required for this plugin to work) that allows you to display a chess diagram in your posts or pages.
+This plugin adds a new template to [Templatedia](http://wordpress.org/extend/plugins/templatedia/) (required for this plugin to work) that allows you to display a chess diagram in your posts or pages.
 
-It is a replication of a (Wikipedia template)[http://en.wikipedia.org/wiki/Template_talk:Chess_diagram#Syntax] and accepts parameters in the exact same format.
+It is a replication of a [Wikipedia template](http://en.wikipedia.org/wiki/Template_talk:Chess_diagram#Syntax) and accepts parameters in the exact same format.
 
 This plugin was originally coded as an example for how to add a template to Templatedia via a plugin.
 
