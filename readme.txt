@@ -3,7 +3,7 @@ Contributors: Viper007Bond
 Donate link: http://www.viper007bond.com/donate/
 Tags: templates, post, posts, page, pages, chess
 Requires at least: 2.0
-Tested up to: 2.3.0
+Tested up to: 2.3
 Stable tag: trunk
 
 Creates a new template in Templatedia for displaying chess moves.
